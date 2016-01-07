@@ -1,0 +1,624 @@
+	Topic: Real Magic
+		Difference between a trick that dissolves when you find out how it works AND tricks where the delight does not fade.
+		The magic remains afterwards. Optical illusions (the one with the checkered colors) + Spike Island Analysis
+
+	Topic: Harmony - statistical analysis
+		Wordles applied to ABC files. Strange attractors - hover, then switch.
+		Probabilistic interpretation of semiotics. Kripke. Language as social construct - context, disambiguation.
+		Wittgenstein private language. True communication is - always? - a feedback loop. Need an "ACK". Even then the actions of the recipient
+		are the only real indication that intent has truly been communicated.
+
+	Topic: Surface Hacks and Deep Hacks and the change invariant
+		Music: skipping fingers in a guitar shape to make it easier to hold = Surface hack.
+		Music: skipping the root of the chord to add in an octave of a color tone = Deep hack.
+		The interesting thing is that without context, these are indistunguishable.
+			
+		Software design is like that. Developers look at XML serialized messages and see inefficiences and loose control over data types and think "ugh". Surface view.
+		Designed to be truly flexible w.r.t. change = Deep view. Also indistinguisable without context. Its not a hack. not a lazy solution. it is actually optimal given
+		the ever present CHANGE.
+		I rememember Vienna Development Method. Looking for the invariant in a look. Expand now out to product iteration. What is the invariant? CHANGE.
+
+		Words like "flexible" not well treated  OO was supposed to be flexible becauase the innards could change but the interface remains constant.
+		However, in much of the real world of business apps, it is the interfaces that change.
+
+
+	Topic: Hidden languages
+		Example: clauses in contracts that are ambiguous on purpose. Both parties need to known "the game" in order to
+		work in this sort of fluidty. Have come to accept that ambiguity is the natural state of pretty much everything.
+
+	Topic: Surface Patterns, Deep Patterns verus meaning
+		Surface patterns - get behind them.
+		Deep patterns - turns out they are largely arbitrary and disconnected
+		In other words the deepest patterns are not patterns at all.
+
+
+	Topic: Why this book
+		The desire for black&white distinctions is ultimately a great source of frustration best let go of. Letting go of it is - unfortulately -
+		the same as "giving up" - from a distance. Hence this book. Book aims:
+			to get things out of my head and get some peace
+			to possibly be helpful to others who might stumble across it and learn from my mistakes or whatever little insights I might have had
+			to explain to myself as much as anybody why I no longer care as deeply about some things I used to care deeply about and also
+			how I now care a lot about some things I used to not care about at all.
+		
+	Topic: Complexity Acellerators: More bugs now manageable. Internet, Google, Quora etc. makes it easier to find solution to a problem.
+		Quality hasn't improved. Problems are still there. Or maybe quality has improved if the net effect is less downtime?
+
+		Old law states that task expands to fill the time available for it. Maybe there is a shittyness threshold that has been expanded
+		by google search, forums etc. We appear to be filling up to the available toleranace for bad software - with workarounds.
+
+		Cloud transition: instead of making it reliable. Hide how it falls over.
+
+		Massive Horizontal Scaling : Ant Colonys
+
+
+	Topic: The economics of complexlty
+		3d printing make certain types of complexity cheap. eg intricate layers.
+		software full of maxhines so complex only the original creator can operate.
+		Create complexity and then make money taming it.
+		Simplicty not always economically advantageous. Market forces cannot always fix it eapecially once dominance achieved.
+
+	Topic: Simplification versus Fabrication
+
+		UIs can Simplify or they can Fabricate. Latter users metaphors that are often wildly at odds with the underlying reality.
+
+		When there is fabrication cannot expect true understanding. When the analogy breaks down, you have nothing.
+
+		Encapsulation considered bad.
+		True flexibility comes from being able to hack - in software today, the vast majority of hacking goes back to the original source code.
+		We need a higher level of hacking (Pella).
+
+	Topic: There are no right answers.
+		all tunings are tradeoffs
+		Chaitin - "facts" are not interconnected
+		Every partition of realiity is arbitrary
+
+	Topic: Bottoming out complexity
+		What if the Buddhist Monk is right and the universe makes iself more complicated
+		in response to us examining it.
+
+		Hard to imagine anything more deliciously complex. A complexity worthy of a creator.
+
+	Topic: The art of coding nad the coding of art
+		Bill Liao, founder of coder dojo "the best coders are poets"
+
+	Topic: Analog -> Digital -> Analog -> Digital
+		Analog world. Digital approximation, yields Analog outputs.
+		But Wolfram believes that analog is all realy analog? Simpler formulae, iterated.
+
+	Topic: Accountabilty Considered Harmful
+		The tragedy of the conditional mode. Investments in prevention hard in business & in government
+		If it works, nothing happens.
+
+	Topic: The unavoidable fact of falsifiable facts
+		global warming
+		Big spend big now one something that might not be true hard ... even if the probability is so neglibigle as to be effectively 0.
+		So much of what we accept every day as fact is actually a little bit short of that
+		Apriori truths
+		Thomas Kuhn
+		Every scientist understands falsifiability but scientists are human.
+		same with supreme court justices. Post hic propter hoc.
+
+
+	Topic: The death of horizontal initiative
+		No longer possible to set up a shoe shop or an orange juice bar on your own.
+		IT (and perhaps Sports) are perhaps the last places where you really can go from rags to riches with sheer hard work
+
+		The tiered old narrative about capitalism says "if you work hard, you will succeed". Used to be a lot truer than it is now.
+
+	Topic: Retro-active Luck removal
+		Tendency for the role of plain old luck to be removed when "history" of a success is replayed. Thomas Kuhn.
+
+
+	Book: A mind so perfect - it doesn't exist
+		Meaning and purpose can be found from any activty - except for the abstract search for meaning and purpose.
+
+
+	Topic: Logic and Cadences. Aristotle system of syllogisms. Major premise 6m, 2m chords. Minor premise 5/7 chord -> 1M
+	Sowa. Knowledge Representation.
+	p2
+
+	Topic: Lossy representations and knowledge loss
+	The book - is still good as it gets
+
+	Topic: Progressive intelligence fallacy
+	Tech makes us "smarter" today. Not mankind in general. No reason to believe that we are.
+	Creates an illusion. In truth, only the occassional genius moves the needle. The rest of us just plod along.
+	"Progress" is also marketed heavily by the prevailing consumption economy. "Growth"
+
+	Not impossible to have a new dark ages. Remeber the library of Alexandria. Arabs and Celtic Monks retaining Greek knowledge.
+	Tons of Celtic music lost : geanntrai, suantrai etc.
+
+	"But", you say, "we have everthing written down...". Not really. Laws, science...increasing stuff never printed out. All bits....all lost with an EMP.
+
+	First major civilization on Earth to leave to trace that it was ever here.
+
+	Standing on the shoulders of 0.0000001 % of mankind
+
+	Topic:
+	Mechanized reasoning machine - rotating disks: Ramon Lull. [Ref: Sowa, Knowledge Representation]
+	Example: http://www.generativeart.com/on/cic/papersGA2006/45_file/image002.jpg. Compare with image of Circle of Fourths. Compare with image of Pat Martino
+		Sacred Geometry: http://truefire.com/blog/wp-content/uploads/2011/05/sacred9.png
+		Compare rotating disk device used to show what chords are in what key
+		Getting cogs to line up....Babbage difference engine
+		
+	Topic: Math, Music and Looms
+		Step toward binary from analog stuff of Lull...Jacquuard loom. The mechanical pipe organ (Spiddal). The music box.
+
+	Topic: Ugly facts and beautiful theories
+		Aristotle : same guy who did syllogisms stuff...discovered temperement problem. 12th root of two.
+		Russell - he of the predicate logic - fell foul of self-reference and now, final nail in the coffin of perfect "order" is Chaitin proving that mathematical
+		facts are in some sense random with no underlying chain of logic that will ever be found.
+		Logic used to kill itself
+
+		And yet, in Physics, great import is attached to the beauty of a theory.
+
+		There appears to be a necessary progression of beauty to ugly as new facts, ruin it, so to speak
+
+		The aethethic equivalent of the second law of thermodynamics
+
+	Topic: All notations are biased
+		Fixation in the software world on brevity. Lost count of the number of sales pitched based around things like "create a fully functional
+		website in just X lines of code."
+		Notations are biased towards some common expression. If something is to be done over and over gain, make it short to say.
+		Downside is that stepping outside of that common expression, you end up with wordy (best), ugly (less best), impossible (worst).
+		Example is XSLT - simple things simple, hard things effectively impossible. (By "effectively impossible" I mean not practical. 
+		It does not matter that XSLT is Turing Complete.
+
+		So-called "Standard Music Notation" very biased towards (a) Western Music and (b) piano and (c) a certain type of musical composition
+
+		C, F, G7 in Grand Clef notation is the musical equivalent of "hello world" in C programming language. Perfectly formed, illustrates
+		most of the key points. Looks beautiful and is succinct.
+
+		As soon as you step away this type of music (e.g. into blues, celtic), or introduce other instruments (strings, drum-kit percussion etc.)
+		the notation starts to get complicated and ugly. Best case, the notation becomes inconvenient. Worst case the complexities of the notation 
+		cause you to shy away from potentially interesting musical ideas because they are ugly/time-consuming to notate.
+
+		Music theory is ex post facto. It comes after the music is invented. But it is also predictive. The predictive but is both
+		powerful and dangerous. The power comes from taking the guess-work out of, say, finding good chords to harmonize a melody line with.
+		The risk is that the "rules" used in the prediction make the produced music formulaic and reduced the likely-hood of coming
+		up with something truly new and interesting.
+
+		In music. Accidents play a role in creation. So too does raw talent. Raw talent often breaks the moulds in musical forms
+		precisely becuase it does not know the rules:-) Some musicians purposely compose on instruments other than their main
+		instrument as a way of staying out of ruts. E.g. guitar player composing on piano.
+
+		
+		
+	Topic: Gaming notation bias with new notations
+		Create new notations to process to write out existing ones.
+		Very well established in s/w. "I would rather write programs, that write programs, than write programs." Meta programming.
+		Curiously, not at all well established in music. DSLs for individual songs or individual styles or even individual artists.  (E.g. James Taylor
+		signature sound. Jimmy Hendrix.)
+
+	Topic: Combinatorics, Fractals and hidden order
+		Lull's machines show early attempt at taming complexity of conbinations via indepdentently rotating concentric circles.
+		Fractal's show an more powerful approach : feedback loop
+		Indian Sitar - sympathetic resonance
+		Happens to my Bouzouki with I play with an Uilleann piper
+		Jimi Hendrix - eletronic feedback loops
+		
+		Process of analysis of music analagous to analysis of logic. BOTH have got wrapped around the axel of bad notations. Logic less so. E.g. Frege->Pierce->Peano->Russell
+		Music notation "stuck" on piano-centric, melody-biased notation. (See separate topic)
+		Lack of DSLs for music. Show a simple song as a Domain Specific Language.
+
+		Combinatorics used by Lull to tame complexity but it can also be used to generate it! (Could argue its pseudo-complex) i.e. it looks
+		complicated. SKUs in manufacturing are a good example.
+		So too is standard tuning on guitar. Complexity leads to expressive power. 5 chord forms, arpeggios and inversions. Going up/down the "neck"
+		of a piano just changes pitch. On guitar, it changes sound cuz of different inversions.
+
+	Topic: Analogy Breakdown, irreducible complexity and ignorance
+		Fields of science, math, computing, so complex it takes decades of dedication to understand them. At which point non-specialists literrally
+		cannot follow. So we create analogies. Analogies break down. Much misunderstanding in business comes from analogy breakdown.
+
+	Topic: Picturing a movie
+		I used to think, I think in pictures. I no longer thing that. I think in animations. A big part of my personal struggle getting concepts accross
+		is that I am trying (often failing) to do a sort of 'key frame animation' of what I see playing in my head.
+
+
+	Topic: "Musical Key" is like the concept of "Race". Something we think exists but doesn't really - at least not at the fractal boundary.
+
+		For Musical Key - use example of trad tune with a C and and C# or an F and and F# - analogy with optical illusion of the 3D wireframe cube that "hops" between
+		two stable states
+
+	Topic: Conceptual Models and Biases
+		Example: approaching trad from a key-centric position - not getting the drones. Then the terminology explodes because the terminology itself has an inherent bias.
+		All lingustic forms do - they priviledge brevity of expression creating a long tail of corner cases of complexity.
+		Rock exampples: Horse with No Name, Foo Fighters Learning to Fly
+		Programming languages - zillions. A lot of "sales pitches" for new languages based on how little language is required to say something. Long tail bites always.
+		Use XSLT as an example.
+
+	Topic: Perfect imperfections
+		Law (say contracts) often have ambiguous bits on purpose. Rather than try to bottom it out and run into the fractal, the parties to the contract
+		are basically taking a calculated risk. Rather than take on the expense (and possible futility) of bottoming it out, punt that to arbitration/court
+		if it occurs.
+	
+	Topic: The theory of untestable beauty
+
+		non-empirical theory confirmation. Quantum mechanics. Physics and math merging into the same discipline.
+		Math does not need to have a practical aspect. You have a set of axioms, then equations, then derive new truths within the symbol system.
+		Many very useful branches of math started out in this "pure form"
+		Maybe same will happen with String Theory - maybe one day it will be testable. Admittedly it is hard to envision being able to craft self-contained
+		experiments that are necessarily the size and complexity of a multi-verse but who knows.
+
+		Relationship of non-empirical theory confirmation to consilence.
+
+		Examples in history of theories that were beautiful but wrong. Leadign to the classic "for every problem, there is a solution that is simple, elegant
+		and wrong".  See Helge Kragh on the steady state universe and on vortex theory
+
+	Topic: The solution resistant universe
+		Our brains can percieve highly abstract forms of beauty. Yet the more we probe and understand the universe, the more deeper complexities arise.
+		Decomposition, it appears, does not bottom out.
+		I read a Buddhist essay once, I cannot remember the author or the title of the essay now, but thus Buddhist Scholar made the amazing
+		statement that the universe *responds* to our introspections by becoming more complicated. Humans create cosmological complexltity by
+		probing it.
+
+
+	Topic: Hermeutic Circles
+		Any intellectual activity we think of as an "art" is really another way of saying "we don't understand how it
+		is done". The intellectual aspects of being a brain surgeon, a music composer, a lawyer, an investor, fall
+		into this category.
+
+		I have a theory that all such arts have something in common : hermeneutic circles. This is no dominant decomposition.
+
+		Figuring out how music works is one such hermeneutic circle.
+
+		Wicked problems have these in 'em
+
+		The dominant decomposition manifests in listening too. Can listen to the whole musical piece. Can listen for the rhythm. Can listen for the
+		baseline. Can listen for the melody. Can listen for the harmonies. None of these is "on top"
+
+	Topic: The art is giving me the blues
+		Not the skill itself - technical acquisition.
+		Ability to evoke emotions in the beholder. In that sense, artists are like doctors/chemists.
+
+		Where does the art come from?
+		Thus when people say, programming an art what does that mean? I think it means art in the negative sense in which that term
+		is used. It is an art because it is non-deterministic.
+
+		Note that it is true that true art is often non-deterministic too. Bob Dylan, Leonard Cohen etc. they do not know where the good songs come from.
+
+		Likely multiple ways of forcing it to happen. Sheer bloody minded effort is one of them. How many lines did Yeats write compared to the ones
+		he published, compared to the ones that have stood the test of time as "good"?
+		(aside: this is also a good way of making "luck". The more I practice, the luckier I get)
+
+		Another way is "struggle". Seamus Ennis on Uillean pipes.
+			https://www.youtube.com/watch?v=aF3fW4Nox9U&feature=youtu.be
+			Compare Jack Whites in "This Might Get Loud" about struggle. Use of dodgy guitars.
+
+		It pushes all my buttons. Can easily make me cry if I have not had enough coffee. Esecially the bend note at 50 seconds.
+		Theory of origin of the Blues. Daoie Goirme.
+
+	Topic: Context is king
+		Cannot learn a note or a chord and fully "hear what it sounds like" because its sound in isolation is just the tip of the
+		iceberg of its expressive power.
+			Wittgenstein: “Understanding a sentence means understanding a language.”
+		Example from The Band Played Walzing Matild? (copyright)
+		No such thing as a wrong note - only a bad resolution.
+		On top of that, our brains wire themselves up differently depending on our auditory environment. If you are born, say, in India and surrounded
+		by Carnatic music you will develop a much, much better ear for it. Be able to hear its subtleties and enjoy them. Basically
+		your musical brain develops an "accent"
+		Kripke: names as social constructs. Another way of saying that names are context dependent. See this in music where
+		chord names often do not help to understand. Name depends on function e.g. same chord multiple names, all "right" but some help and some do not.
+		Kripke example is Hespherous - Phosurus  (same star, one in night sky, one in morning sky)
+		Perlis: understand first by humans, secondarily by computer.
+
+	Topic: Asymptotic notations - finger pointing at the moon
+		The gist of a tune.
+		Irish Trad an example where you really have to listen to a player play it. Mecanical renderings sound very wooden.
+		Not possible to capture.
+		Actually, each performance is different. Best any notation can do is to get close to it.
+		Think of a tune as a fractal. Inside is "this tune" outside is "other music that is not this tune". But the boundary
+		is fuzzy. See thesession.org for "settings" indicative of this fractal boundary.
+
+		Concept of predicate calculus being "ontologically neutral". Not biased to any type of knowledge. So too with music notation..kind of.
+		Western Music notation is biased - towards western music.
+		Also biased towards piano : two staffs + bias towards the key of C
+
+		However, once you get past that, you can layer any western music on top of it. Assembly language. Neutral. Blues Harmoica or Bouzouki backing
+		in celtic. Equally bad at both. Bad in two ways:
+			- doesn't capture it - just play back a MIDI file and you will see what I mean
+			- doesn't help musicians to grok it, internalize it.
+
+		Leads to odd phenomenon where some classically trained musicians cannot play without "the dots" on front of them
+
+		Pragamtists invent their own notations:
+			Joni Mitchell's representation of tunings
+			Nashville Notation
+			Jazz Symbols
+
+		Note that for Jazz, the symbols disappear after a while. Players see "what is really going on" in terms of 2-5-1 progressions, functioning dominants
+		etc. Reminiscent of the comment about Lisp that after a while you don't even see the brackets.
+
+		Sight readers do that too. They are like "lookahead compilers" of assembly language, they eye glides over the music coming up and picks out
+		phrases at a level above mere notes.
+
+		Listen to Michael Finnegan of Flook. There is no way he is thinking single notes. He is thinking phrases.
+
+
+	Topic: Notating for machines versus notating for humans
+		Alan Perlis. Programs should be written to be understood primarly by other humans and incidentally by machines
+
+		Staff-based music notation, tab-based is like assembly languge - imperative - "do this"
+		Programming langs - since asssembly language - have tried to encoding meaning to help the human understand it. Beat cognitive limits with power powerful
+		expression primitives. *Some* exist in music e.g. 6 2 5 1 progression. Andelussian cadence. Neapolitan sixth.
+
+	Topic: Big White Lies
+		Project manages hate non-determinism. Strategies for making progress include the idea of lying, creating on purpose, a silly simplistic
+		conceptual model, as the only way to get something progressed.
+		Torn on this.
+		Story of movie director. Throw in boring films that are delivered on time on budget so that you can get the money for the ones you really want
+		to make which are much higher risk/reward ratios.
+
+	Topic: The consequences of hermeneutic circles
+		Chords scales etc. all interconnected.
+		Infinite combinations
+		Then add guitar. Finite size but infinite combinations.
+
+		Results in no single linear path.
+		Everyone goes on their own journey.
+		It doesnt end.
+		If the term spirituality means anything, it is in this.
+		Throw in consciousness itself influencing the unfolding of the very path you are trying to follow, and you have a reality worthy of a Creator.
+
+	Topic: Beliefs and facts
+		Russell Paradox
+		Chaitin on disconnected nature of math truths
+		Moral relativism and fractal boundries of all rule-based systems
+		Shades of gray
+
+	Topic: Binary Dualisms / Law of the Excluded Middle
+		Good / Bad -> Fractal Boundary
+		Good / Bad -> Derrida/Godel/Russel - turn problem onto itself via self-reference
+
+
+	Topic: saying versus showing / Reality in totality / 
+		Negative space
+		fractal boundary
+		finger pointing at the moon
+		music - 3 harmonic points in musical space in, say, D Major
+		Use partial chords to "point" to that harmonic point. More subtle and pleasing and great scope for variation.
+		The "dabbing" at melody notes essentially acts as a harmonic "tug" on the ear toward the 1,4,5 "foci" of musical space.
+		Use "strange attractors" as an example.
+
+	Topic: Recipes versus knowledge
+		Cargo Cults Richard Feynman
+		Software is recipe not knowledge
+		
+	Topic: Simplistication
+		"Simplistication" The process by which things are overly simplified, leading to simplistic designs
+		design thinking = make it easy for the user with no knowledge
+		Guitar is brilliant illustration of the artfully constructed compromise.
+		Ease of use can easily result in loss of expressive power.
+		Computing is littered with it. Reduce things to 1 button. Dont make me think. User interfaces by
+		definition inject a different conceptual model. Users dont learn the underlying. They learn the abstraction. When
+		the abstraction breaks down they are stuck.
+		utility thinking = make it easy for the user who knows that shortcuts are convenience, nothing else
+
+		At its worst when the right action is taken for the wrong reason and it works:-/ Example,
+		Dan McCarthy straightening the electrical cable. Not a firehose. Yet it worked.
+
+	Topic: Strange Attractions
+		Could not see how Em above a series of notes made it Em - especially when not all the notes where in the chord called Em.
+		Took a long time for it to sink in. First to 'hear the changes' and then to come up with some way
+		of explaining to myself what 'hear the changes' really means.
+		Lorentz Attractors. Loci around which the melody rotates, but then "jumps" to another loci.
+		Music plays with your brains short term memory. Throws notes in the air. Repeats some, most likely skipping over some entirely.
+		Then, as the music progresses, your brain is keeping a sort of mentaly tally for which notes are dominating the frequency distribution.
+		There is normally one that is way above the others - it becomes the tonic note. The intervals are established, like wave patterns
+		of electronics. Probability distrubitions. Magenatic waves cretes around a magnet by metal particles. From that comes the key = pitch set.
+		Of course, straght music notation totally does not help you see any of that. It is assembly language.
+		A good DSL for a musical piece would as you would be able to see the phrases.
+
+	Topic: D.C. Al Coda - Goto considered bad
+		I was a young student when I first heard about Dikjstra and "structured programming" and GOTO statement of BASIC
+		was considered evil.
+		Music notation has these. D.C. Al Coda and D.C. Al Fine.
+
+	Topic: The Illusion of Progress
+		also, reality is a set of relations, not things.
+		Wittgentein said facts not things
+		Buddha said annata
+
+		IT is making this more true every day with vitualization. Email sending is a good example. English comes up short in describing digital life.
+		We adopt analogies like E Mail but the analogies break down.
+	
+		Another great example is authenticity and the concept of digital signature
+	
+		http://m.faz.net/aktuell/feuilleton/forschung-und-lehre/interview-with-luciano-floridi-we-need-a-new-definition-of-reality-13850667.html
+
+	Topic: The Opposite of Progress
+
+		Much software not demonstrably better just more of. and different.
+
+		World ibcreasingly runs on software nobody understands
+
+		Reminiscent of works of art. we look at the pyramids and ask 'how?'. We look at paintings of the old masters and
+		ask 'how?'. We listen to J. S. Bach and ask the same. The works of art do not instruct us as to how to replicate.
+
+		Most software is the same. unique works of art. Sometimes collaborative on a vast scale.
+
+		Master plan not in the code. Sometimes there is no master plan. Often reminds me of Bebop jazz or Carnatic music. Only a top level notion of a plan.
+
+		Then afterwards retroactive goal setting kicks in. Academics crawl over it.
+		
+		Rip and replace. NIH but also indirect expression of impenetrability of the source code.
+
+		Having the source code is like having the sheetmusic. No conceptual model.
+
+	Topic: Unintended Secrets
+		Knowledge representation. Knowledge is not words, or pictures. If it was, we could capture it. Any mental model worthy of "knowledge" always
+		looses something - sometimes a lot - in translation into froms the allow it to be communicated to others.
+
+		Have always been struck by the disconnect between what music really is, and the notations used to talk about it. Took me a decade, feeling like
+		a detective, trying to get behind cryptic notations.
+
+		I don't think that it is necessarly obtuse. Accidents of history. Then they STICK. I.e. once you get it. you cannot be bothered trying
+		to find something better. E.g. QWERTY keyboards.
+		To paraphrase Churchill, music notation is the worst way in the world to denote music, except for all the others.
+
+		Take one example. The musical concept of an "interval". Measurement is in seconds, thirds, fifths.... Two problems:
+			The normal laws of addition don't apply: e.g. a 5th+4th = 8th
+			The normal laws of distance don't apply a 1 to a 5 is s "fifth" but the opposite, a 5 to a 1 is a 4th.
+
+
+		Here is how I finally created a mental model for myself to make sense of this:
+		Spirals: http://www.3dcadbrowser.com/th/1/13/13121.jpg
+
+		This feeling of having to decrypt can lead to a feeling that there is a force at work, for some unknown reason, making things cryptic.
+		Can also lead to a feeling that breaking throught it, can be seen as some sort of rite of passage.
+		From there, it is a short hop to some wilde and wacky stuff. Just google Spiral and Music.
+
+		Pat Martino Sacred Geometry
+
+		Many revered scientists have gone off the rails. 
+			Newton spent a long time working out exact measurements of the Temple of Solomon, which he claimed would allow him to predict
+			the exact date of the apocalypse.
+			Crick belives DNA arrives from space, put here by aliens : direct panspermia
+
+	Topic: Notations power to obfusticate
+		Mixo and Dorian really straightforward concepts known by diatonic instrument players.
+		Gets called "Mixolydian", then somebody remarked that they refused to belive that illiterate Irish peasasts were playing
+		composing and playing mixolydian. But that is to confuse a name that sounds like something is "advanced" with the thing itself.
+		All notations are biased. All notations have a point-of-view.
+
+	Topic: The tragedy of excellence
+		Musicians who work for decades - play for peanuts. Especially, Jazz Guitarists
+		In software, if you make something really simple. Really, really simple. Value has a way of disappearing.
+		Especially if you make the new features completely transparent. I.e. you don't have to do anything different.
+		Then it becomes "it looks like it always did. Nothing appears to have changed." Why would I pay a lot for that.
+		Same for, say terrorism security.
+
+	Topic: The tragedy of competence
+		All life forms can be said to crave stimulation. Some are sated by the items required for life itself: food.
+		Others are wired to crave more than that. It could be classified as a disease. Need a regular "fix" of intellectial stimulation.
+		All artists suffer from this. Have this disease. The constant need to do something new.
+		Being a professional artist however, generally means learning to live with boring repetition.
+		Unless you are so famous you can get away with constant change/variation e.g. Bob Dylan.
+		Or unless your musical form is all about improv i.e. bebop jazz
+
+		Software is great place to be if you crave stimulation. If you are doing it right, every day (with some exceptions I will get to), you are
+		doing something that not only have you 	never done before, but nobody has every done before.
+		Because of the 0-cost of replication, if this precise thing already existed you would just copy it, at 0 cost.
+
+		The 0 cost is the exception. You might have to re-create if license costs or integration costs too high.
+
+		Explains why great thinkers in universities, often make the worst lecturers. Anybody can teach a course first time round but only
+		somebody with a specific interest in education (as opposed to the subject matter of the lectures) is going to be good at it, second time around
+		when all the material is being repeated.
+
+	Topic: Meta Puzzles
+		s/w is like making a puzzle, then trying to solve it. every project, every day consists of creating new puzzles (design).
+		Innovation, in software often comes down to making a new puzzle, sufficiently complex to generate something new in the world - something of value,
+		but not so complex that you cannot solve it i.e. bring that new thing into the world.
+		Many art forms have this "make-a-puzzle then solve it"
+		Bach fascination with numerology. Creating a puzzle. Then solving it. Same for Haiku. Same for Iambic Pentameter. 12 bar blues.
+		A problem - a set of constraints - forces innovation. Necessity is the mother of invention.
+		Science does the same? Every "I wonder?...." is a puzzle being formed.
+		Engineering is about minimizing non-determinism is solving puzzles.
+		The more non-deterministic, the greater the risk.
+		Software very much caught with one foot in art and one foot in engieering. Shows most acutely in time/cost estimations
+		as the unknowns (especially the "unknown unknowns" are often acute.)
+
+	Topic: Gaming the universe
+		Use evolution, use iteration as a way of dealing with non-determinism.
+		Use Monte Carlo Simulations where the Simulations are "real projects" to find good outcomes.
+		This is how, say, music industry has worked. Back lots of horses. Most will fail but those that win, win big and result in a NET positive.
+		The "half kelly"
+		It is now VC's work in Silicon Valley.
+		You could interprete the mullti-verse as being the ultimate example of this. Every cause and effect that results from consciousness (free will) is
+		another experiment. Take a binary decision. The multi-verse kicks off two instances one where you took the red pill, so to speak. One where
+		you took the blue pill. This is reminiscent of the Buddhist concept of the universe being perfect. The world we live in, is perfect it the
+		sense that it is the logical and inevitable result of the causes and conditions in this particular "fork" of the multiverse
+
+
+	Topic: Creating Creativity
+		Many examples of frameworks that allow infinite possibilities. The game of Go. The iChing.
+		Carnatic music. Ragas. Combinatorical expolosions. Man made puzzle space of breathtaking size.
+		Bach's "for the glory of God". It is possible to have spiritual experiences in any of these creativity frameworks. One way to "feel" the awe of 
+		the infinite is to glimpse it by having flashes of the sheer size, and grandeur of it.
+		This is not limited at all to art. Mathematics - a framework about as scientific as they come - is, it seems, a bottomless pit of discoveries
+		yet to be made. Chaitin however, points out that the glories of math are not all interconnected. Its a bit like looking for an underlying order
+		in a partical cloud where the clumping together of matter, hither and dither is just the result of the laws of physics, not an indication of
+		any higher order.
+
+	Topic: Deferring Complexity Collapse
+		Web and google in partic, have extended the life of ridiculously complex software by making it possible to essentially find every snippet of knowledge
+		on obsure problems.
+		The danger though is that it really is just a deferring. If it wasn't for google, it would have collapsed by now under the weight of its own
+		man-made complexity. There will come a point, when this can no longer save us.
+		
+		Another deferral mechanism which is rampant - is re-write. I.e. relearn it and re-do it from scratch. Again, this has been hidden from
+		direct view by the rapid progress in hardware. But what if/when that slows down. I.e. no longer compelling reasons to re-write to take 
+		advantage of, say, multi-core CPUs in cell phones.
+
+		But it is starting. So many startups these days are tinkering around the edges. Another reason for that is that the big infra stuff that 
+		so many applications now depend on is beyond any garage startup. REference the quote about hedge funds and the opportunity to create a
+		new one is gone.
+
+	Topic: Identifying identifiers
+		- The identifier you can read
+		Nouns and verbs are a very powerful tool. Expressive power combinatorics kicks in when the relationship of nouns to verbs
+		is polymorphic. Simply put, a small set of verbs can apply to a big set of nouns. RESTian.
+
+		- The identifier you cannot read
+		64 bit numbers in the relational databases. In Relational database theories, the one true identifier does not have to mean anything
+		because all access is mediated through its attributes. So the "name" of a thing is just the "name" attribute and no different
+		from any other attribute such as "weight" or "color".
+		This plays out over and over again in XML/SGML
+
+		Another form of this is hash codes, content addressible stores. Staging a come-back.
+
+		- The identifier you can hum
+		John Blakes ingenious scheme of naming jigs and reels
+		Rigid Designation
+`		Concept of "settings" of tunes. Surprisingly thorny question of how much you can change it and for it to still be the same tune.
+		Hofstadter's argument with Knuth about Metafont
+		Zen concept of Annata - nothing exists independently
+		Malinke concept of indirect reference
+		Visual art concept of negative space
+		Negative space technique use by Witttgenstein to try to show that which cannot be shown directly
+
+		- The identifier you can navigate
+		HyTime - TreeLoc/Ladders
+		Malinke
+
+	Topics: Dynamic interpretation of static identifiers
+		Bertrand Russell
+		Are proper nouns just query expressions in disguise
+
+
+	Topic:	Musical Grammers and Idioms
+		can decompose trad into a hierarchical decomp. Not unlike the grammar of a human or a computer language.
+
+		The grammars are then sources of surprise when the "standard pattern" is broken.
+	
+		call and response
+		deceptive cadence
+
+		I wonder if this playful desire for surprise has played a role in the endless "imperfections" of human languages.
+
+		Beauty and perfection are often subtle. Buried deep.
+
+		Languages are not nouns and verba etc. They are idioms. So too in music. Lispers say that after a while ypu no longer see the parens. Mary Bergin no longer sees the 			individial notes. She sees entire phrases, idioms. Computer languages are like that. They mostly seek to allow you to give atomic names to phrases and idioms.
+		To my mind, the importance of math in this is easiĺy over stated. functions.
+
+
+	Topic: Meta Tools
+		I would rather write programs to write programs, than write programs.
+		Interesting how quickly complexity can be formed here by introducing a loop.
+		Stephen Wolfram. New kind of science. Essential idea is that there no value in setting down to invent something complicated.
+		Invent something simple and iterate it.
+		Maybe we can "grow" a Symphony?
+		What if a musical phrase had TWO meanings. The first being the notes to be played. The second being the program to run to generate the
+		next series of notes to be played. Now what happens if the generated notes are also interpreted in this two-level model?
+		
+
+	Topic: The bottomless configuration problem
+		CLASSPATH
+		A has a config B
+		Invent C to automate creation of config B
+		C has a config D
+		Invent E to automate creation of config D
+		...
+		SGML - endless configuration problems
+
