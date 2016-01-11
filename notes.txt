@@ -1,3 +1,12 @@
+	Topic: Shoulders of Elders
+		New knowledge from combining existing. Often just as novel as pure leap vision.
+		Are we better at that than ancesstors. Yes but not because we are smarter. Because we have better access to existing knowledge than previous generations.
+		Also shots in the dark are cheap. Can afford to make lots of them. Crazy theories. Then a subset will prove worth progressing. No different than musicians trying stuff out. Mysicians mostly happy to be seen to do it that way. Scientists, not 	so much.
+
+		Caselaw search to confirm conclusion already tenaatively reached.
+
+		Hard to avoid in humans cos of limited brain space. We need to prune the search tree.
+
 	Topic: Real Magic
 		Difference between a trick that dissolves when you find out how it works AND tricks where the delight does not fade.
 		The magic remains afterwards. Optical illusions (the one with the checkered colors) + Spike Island Analysis
@@ -201,10 +210,32 @@
 		Music notation "stuck" on piano-centric, melody-biased notation. (See separate topic)
 		Lack of DSLs for music. Show a simple song as a Domain Specific Language.
 
+	Topic: Complexity Generators
+	We tend to think of complexity as bad. It is if it is uncontrolled and you don't know how it works.
 		Combinatorics used by Lull to tame complexity but it can also be used to generate it! (Could argue its pseudo-complex) i.e. it looks
-		complicated. SKUs in manufacturing are a good example.
+		complicated.  SKUs in manufacturing are a good example.
 		So too is standard tuning on guitar. Complexity leads to expressive power. 5 chord forms, arpeggios and inversions. Going up/down the "neck"
 		of a piano just changes pitch. On guitar, it changes sound cuz of different inversions.
+		So too is cooking. Vegetarian indian. Johanna. Manjula. Same classic set of base ingredients. Combinatorics.
+
+	Topic: The why of how and the how of why
+		Difference in recipe books. Reference Chinese Gastronomy. Explains why - not just "do this"
+		In s/w we often badly confuse these. Encapsulation as a why of insuring ignorance "magic boxes" as opposed to simplyfying
+		interface to something that you fully understand how it all works under the hood.
+
+		Some have argued that "why?" questions are dangerous becaause they can lead you to start thinking that there
+		is premeditation - a "God" that orgained it to be so. Compare "how is it that...?".
+
+		The latter explains phenomenon X in terms of other phenomena Y without "stepping outside the box"
+
+		The nub of the spirituality question for me comes down to this. If it is necessary to step outside the box in order
+		to explain all phenomena then that level, that "thing", that force is "God". Sometimes I think that. 
+		But what if you could actually explain everything in terms of a closed system but need to do it with hereneutic cirlces?
+		I.e. there is no layering. Everything depends on everything else.
+		How cool would that be. So cool, that you might be inclined to think it would need a designer.
+		How cool would it be. How perfect would it be if such a designer designed things in such a way that the designer herself
+		could then simply disappear into the universe itself. Disappearing from existence but present in every part of it at the same time.
+		What could possibly be a more perfect definition of "God"  than an entity so perfect, it does not exist at all?
 
 	Topic: Analogy Breakdown, irreducible complexity and ignorance
 		Fields of science, math, computing, so complex it takes decades of dedication to understand them. At which point non-specialists literrally
@@ -622,3 +653,5 @@
 		...
 		SGML - endless configuration problems
 
+
+	Topic: 
