@@ -1,34 +1,26 @@
-	Topic: Shoulders of Elders
-		New knowledge from combining existing. Often just as novel as pure leap vision.
-		Are we better at that than ancesstors. Yes but not because we are smarter. Because we have better access to existing knowledge than previous generations.
-		Also shots in the dark are cheap. Can afford to make lots of them. Crazy theories. Then a subset will prove worth progressing. No different than musicians trying stuff out. Mysicians mostly happy to be seen to do it that way. Scientists, not 	so much.
+	Topic: Unrolling the feedback loop
+	       Complex processes that have feedback loops get linearized.
+	       Music dry rooms.
+	       Cheese manufacture from pasturized milk - re-introduce bacteria. Fortification.
+	       Somebody alway says "something" is lost. But what? And is it real?
+	       
+	Topic: Perfection considered bad
+	       Animation via computer. re-introduce human error.
+	       drums - add back in quantization errors
+	       Milton Keynes. Too perfect.
+	       Not human - but is this just an emotional reaction? Perhaps the chaotic, feedback laden forms invented/evolved by nature are actually better?
+	       It is interesting that nature does not bother with "clean room" and linear process decomposition.
+	
+	Topic:
+		Random pattern to theory, to prediction, to rule, to orthodoxy to fundamentalism, to god to revolution ..... cycle repeats
+		with some new theory based on a new random pattern. The existence of patterns as evidence of divine intervention - the "why" of patterns.
+		Patterns could be some other patterns. Many the ones we have are just accidents?
+		For every set of patterns, can propose multiple ways of explaining. As soon as the concept being pattern-ified becomes a bit vague or a bit aesthetic
+		becomes impossible to use scientific method to adjudicate.
+		Science itself has isolated many of these for us:-) Chaotic systems. Predictivite tests go out the window.
 
-		Caselaw search to confirm conclusion already tenaatively reached.
-
-		Hard to avoid in humans cos of limited brain space. We need to prune the search tree.
-
-	Topic: Real Magic
-		Difference between a trick that dissolves when you find out how it works AND tricks where the delight does not fade.
-		The magic remains afterwards. Optical illusions (the one with the checkered colors) + Spike Island Analysis
-
-	Topic: Harmony - statistical analysis
-		Wordles applied to ABC files. Strange attractors - hover, then switch.
-		Probabilistic interpretation of semiotics. Kripke. Language as social construct - context, disambiguation.
-		Wittgenstein private language. True communication is - always? - a feedback loop. Need an "ACK". Even then the actions of the recipient
-		are the only real indication that intent has truly been communicated.
-
-	Topic: Surface Hacks and Deep Hacks and the change invariant
-		Music: skipping fingers in a guitar shape to make it easier to hold = Surface hack.
-		Music: skipping the root of the chord to add in an octave of a color tone = Deep hack.
-		The interesting thing is that without context, these are indistunguishable.
-			
-		Software design is like that. Developers look at XML serialized messages and see inefficiences and loose control over data types and think "ugh". Surface view.
-		Designed to be truly flexible w.r.t. change = Deep view. Also indistinguisable without context. Its not a hack. not a lazy solution. it is actually optimal given
-		the ever present CHANGE.
-		I rememember Vienna Development Method. Looking for the invariant in a look. Expand now out to product iteration. What is the invariant? CHANGE.
-
-		Words like "flexible" not well treated  OO was supposed to be flexible becauase the innards could change but the interface remains constant.
-		However, in much of the real world of business apps, it is the interfaces that change.
+		Pure versus messy impure langyages. Constant upheavals. Music, comp. sci. But over tume the pure gets contanimated. Orwelleian 2 legs good 4 legs bad.
+		The only way to stay pure is not to be used :-)
 
 
 	Topic: Hidden languages
@@ -75,6 +67,7 @@
 		Encapsulation considered bad.
 		True flexibility comes from being able to hack - in software today, the vast majority of hacking goes back to the original source code.
 		We need a higher level of hacking (Pella).
+
 
 	Topic: There are no right answers.
 		all tunings are tradeoffs
