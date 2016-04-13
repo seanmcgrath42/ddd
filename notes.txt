@@ -1,3 +1,7 @@
+	Topic: Consensus by sleight of hand
+		XBRL and RDF
+		Both avoid all the hard problems but in different ways
+
 	Topic: Unrolling the feedback loop
 	       Complex processes that have feedback loops get linearized.
 	       Music dry rooms.
