@@ -1,3 +1,25 @@
+Topic: The cult of "done"
+Getting things done requires forward momentum. Common way to do it
+in business is the project plan. But a lot of what we insist on 
+creating plans for, cannot really be planned. Software dev
+gets a bad rap sometimes (sometimes its totally deserved). Sometimes
+- maybe most times, those engaging in software dev know full well
+that it cannot be mapped out.
+
+A related - deeper issue - is endeavours where "done" has no real
+meaning. We tend to take a "construction" metaphor and extend
+it to breaking point. I.e. four walls on a house are done - they are
+done. For well constructed house, likely done for many, many years.
+Not so with all forms of construction.
+
+Topic: Semantic hysterisis and semantic tectonics
+
+Aboutness is asynchronous. Often find what things are about after
+they are created. Filing dilemma. All classification schemes are
+wrong. The sooner you apply a semantic filing scheme, more
+wrong it will be.
+
+
 	Topic: Consensus by sleight of hand
 		XBRL and RDF
 		Both avoid all the hard problems but in different ways
