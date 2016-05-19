@@ -1,3 +1,15 @@
+Topic: Reality is a feature extraction and a regression
+
+Much evidence that reality is not something we sense directly.
+Our brains sort of "make up" a hypothesis that fits what our
+senses feed it. 
+No different than classic regression technique. Extract features
+from a sample. Build a formula that fits the feature values.
+Part of the fun of this is that different brains extract different
+features and thus - have different personal realities. Even if they
+features are the same, the regression models are different (many ways
+to fit a curve).
+
 Topic: The cult of "done"
 Getting things done requires forward momentum. Common way to do it
 in business is the project plan. But a lot of what we insist on 
