@@ -1,3 +1,9 @@
+Topic: The myth of unambiguous algoriths
+So much context these days - factors outside the control of the
+algorithms, that ambiguity is everwhere. Knuth said "Warning.
+Have only proven the program correct. I have not run it."
+
+
 Topic: Reality is a feature extraction and a regression
 
 Much evidence that reality is not something we sense directly.
