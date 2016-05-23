@@ -16,6 +16,20 @@ features and thus - have different personal realities. Even if they
 features are the same, the regression models are different (many ways
 to fit a curve).
 
+In computing, we spend a lot of time modelling. We tend to think
+that there is this thing called "reality" and we are creating a useful
+subset model to make it tractable. In truth, we are creating a 
+model *on top* of another model - our own personal perceptions of "reality"
+.
+This neatly explains why no two software developers will independently
+model any subset of reality the same way.
+f
+
+Topic: There is no such thing as a correct model
+Firstly, If it was truly correct, it would be indistinguishable from the reality
+it is modelling.
+Secondly, there are rarely (never?) any modelling situations where there
+is exactly *one* correct model.
 Topic: The cult of "done"
 Getting things done requires forward momentum. Common way to do it
 in business is the project plan. But a lot of what we insist on 
