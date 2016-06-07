@@ -1,3 +1,12 @@
+Topic: Entropy for the win
+Semi-structured knowledge wins. If no structure at all is would
+not be knowledge. (See Borges concept of Library useful becuase
+of the books it does not contain.) However, structure - especially
+hierarchical structure - difficult to enforce. Can generate 
+benefits but at big cost. Then slide down the slope again. Either
+because of tag abuse or because of collapse/rebellion.
+
+
 Topic: The myth of unambiguous algoriths
 So much context these days - factors outside the control of the
 algorithms, that ambiguity is everwhere. Knuth said "Warning.
