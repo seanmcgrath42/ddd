@@ -1,3 +1,11 @@
+Topic: The danger of mathematical thinking in software
+Inductive logic : works for 1, works for 2, works for N. Perhaps
+the most powerful generalization technique in all of math.
+Falls down badly with s/w. Trouble is it is so appealing
+and because software is abstract, we cannot see the "breaking points"
+as we would with say, load on a bridge or G forces on an Aircraft
+wing for example.
+
 Topic: Entropy for the win
 Semi-structured knowledge wins. If no structure at all is would
 not be knowledge. (See Borges concept of Library useful becuase
