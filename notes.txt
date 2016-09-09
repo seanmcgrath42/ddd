@@ -1,3 +1,10 @@
+Topic: Strip mining the valley floor :  why capitalism makes real innovation so hard to achieve
+Capitalism - at least in its free market form i.e. without external interventions, monopolies etc.- seeks to balance risk and reward. Think of businesses as dots on a 3D surface of opportunities. They can move around. At any give moment each business has the option of staying still or moving.  Think of risk as the peaks and rewards as the valleys. Now, if the decision is made to move further down a slope, it might be a shallow valley or it might be a deep valley. You won't know until you travel down becuase your view of the landscape is necessarly limited. Yo don't know if that big elevation of risk to the north has a shallow valley behind it or a deep one. 
+Now imagine you are an entity that does not actually run businesses, you just fund them. You can use aggregation to your advantage. Pool your bets. Many many small ventures each working their way towards a valley floor can aggregate up to a handsome return on capital. 
+The odd thing is that strip-mining the valley floor happens just as much with very big businesses as small ones - especially if the BigCo is publically quoted.
+
+The surface all these dots are moving around on keeps changing: geo-politics, scientific advances, cultural shifts.
+
 Topic: The danger of mathematical thinking in software
 Inductive logic : works for 1, works for 2, works for N. Perhaps
 the most powerful generalization technique in all of math.
