@@ -730,3 +730,35 @@ wrong it will be.
 
 
 	Topic: 
+
+Topic:Difference at a distance
+	https://en.wikipedia.org/wiki/Celestial_Emporium_of_Benevolent_Knowledge
+
+	dsm  = psychiatric disorders taxonomy
+	based on atttibutes and a simple similarity function - simple set theory
+	in dsm problem is if you have 3 out of 5 and I have 3 out of 5 but we only have 1 overlap
+
+	chords - substitutions - similarity
+	instrinsic/extrinsic attributes
+	uuid school - vs - semantic id school
+	conclusion - is neither work as nothing in common - uuids do come and go because of replication.
+	So, might as well pick something - if possible - to something that has congnitive value as they key thing
+	is to replicate the provenance (the moses model - X begat Y begat Z)
+	homeostatic
+	The ship of Thesus: https://en.wikipedia.org/wiki/Ship_of_Theseus. Only fools and horses.
+	The value of values (clojure) - value oriented databases
+	Nothing Exists Independently : Synyata: http://kwelos.tripod.com/sunyata.htm
+	Zen and the Are : Qualia
+
+	Two levels: picking out objects, picking out classes of objects
+	Neither of these exists in an independent, unchanging form
+	The objects morph as above BUT ALSO the classes we put these things in, morph.
+	Data models = conceptualizations. Many reasons why these morph:
+		In Computing, models are goal-oriented : i.e. pick a model that best fits the problem to be solved
+		Different cultures, (esp. linguistic) -> different models
+		Culture and language, change. For example the word "wireless" has changed in 1 generation.
+		Both as a cultural concept and as a noun.
+
+		
+
+
