@@ -766,3 +766,16 @@ Everthing depends on everything else and everything is changing, all the time.
 larry temkin paradox
 transitivity, musical dissonance as an example of context dependence,
  hill climbing local maxima/minima in machine learning, point in time, sunyata`
+
+**Second Law of TuringDynamics
+TeX, XSLT, SQL,R etc. start constrained - hit 80/20 point.
+    eventually, they fall down. people flip to Python, Java.
+    Alternative, start with Turing complete
+
+
+**Topic: Information Entropy and the deduction of abduction
+Working back from unstructured/semi-structured versus working forward.
+Can deduce that the abductive (analogical?) approach makes more sense.
+
+
+
