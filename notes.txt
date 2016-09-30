@@ -761,4 +761,8 @@ Topic:Difference at a distance
 
 		
 
-
+Topic: myopic transitivity
+Everthing depends on everything else and everything is changing, all the time.
+larry temkin paradox
+transitivity, musical dissonance as an example of context dependence,
+ hill climbing local maxima/minima in machine learning, point in time, sunyata`
