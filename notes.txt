@@ -778,4 +778,16 @@ Working back from unstructured/semi-structured versus working forward.
 Can deduce that the abductive (analogical?) approach makes more sense.
 
 
+Topic:the spiral and the kernal
+spiral = 3d circle of fifths
+kernel = trick for separability classification
+
+General pattern here is to add a dimension. The real value of math
+is the induction that occurs to higher dimensions. I.e. math helps
+us make sense of what happens when N gets past 4.
+
+The spiral of 5ths is an example of what happens if you take a concep
+t
+best understood in 3 dimensionss and try to explain it in 2.
+
 
